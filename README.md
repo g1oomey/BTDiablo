@@ -181,6 +181,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
    
 ## Runes
 - **Runes now have Stack mode and drop stacked from the world! (other than hard coded drops)
+- **Runes now display with colored accents and the rune number. example: ••Jah Rune (31)••
 - Ist and higher Runes now all have 3% Experience Gained
 - Cham Rune
    - Changed Armor and Helmet to 34% Reduced Curse Duration (was Cannot Be Frozen)
@@ -190,6 +191,7 @@ Please submit your own ideas in the Future Ideas issue and they may be added lat
 ## Gems
 - **Gems now have Stack mode and drop stacked from the world! (other than hard coded drops)
 - Topaz Magic Find replaced with Faster Run/Walk
+- **Gems are abbreviated to their quality level: Chipped, Flawed, (Gem type for standard), •Flawless•, ••Perfect•• and color-coded.
 
 ## Items
 **Example** of item modifiers: Um in Weapon = 20 Open Wounds, Armor/Helm = 15 All Res, Shield = 22 All Res
